@@ -15,19 +15,18 @@ npm i
 
 ## Run Instructions:
 ```
-Make sure your in the right folder
 npm start
 ```
 
 ## Screenshots:
 #### Login:
-![LOGIN](https://user-images.githubusercontent.com/95698861/202769579-ae05fe08-a22e-4fbe-8633-6b838a5647fd.PNG)
+<img src="https://user-images.githubusercontent.com/95698861/202769579-ae05fe08-a22e-4fbe-8633-6b838a5647fd.PNG" width="300" height="600" />
 
 #### Register:
-![REGISTER](https://user-images.githubusercontent.com/95698861/202769620-4035eaac-3b9d-4f4f-a845-786aa168fb24.PNG)
+<img src="https://user-images.githubusercontent.com/95698861/202769620-4035eaac-3b9d-4f4f-a845-786aa168fb24.PNG" width="300" height="600" />
 
 #### Home:
-![HOME](https://user-images.githubusercontent.com/95698861/202769666-c2df600a-9635-413f-8085-5b010f81656c.PNG)
+<img src="https://user-images.githubusercontent.com/95698861/202769666-c2df600a-9635-413f-8085-5b010f81656c.PNG" width="300" height="600" />
 
 #### Chat:
-![CHAT](https://user-images.githubusercontent.com/95698861/202769696-72575339-5e7f-4d50-a115-e82399417aa0.PNG)
+<img src="https://user-images.githubusercontent.com/95698861/202769696-72575339-5e7f-4d50-a115-e82399417aa0.PNG" width="300" height="600" />
